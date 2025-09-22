@@ -31,8 +31,7 @@ There are five components to this tutorial:
 ---
 
 ## App Preview
-![Semantic Book Recommender](<img width="1020" height="891" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/9dca2e08-f5e2-45b1-8fc2-6bf283d8d38a" />
-)
+[Semantic Book Recommender]("C:\Users\bhati\OneDrive\Pictures\Screenshots\Screenshot (81).png")
 
 ---
 
