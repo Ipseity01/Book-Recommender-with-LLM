@@ -31,7 +31,7 @@ There are five components to this tutorial:
 ---
 
 ## App Preview
-[Semantic Book Recommender]("C:\Users\bhati\OneDrive\Pictures\Screenshots\Screenshot (81).png")
+[Semantic Book Recommender](<"C:\Users\bhati\OneDrive\Pictures\Screenshots\Screenshot (81).png">)
 
 ---
 
