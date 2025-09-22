@@ -31,7 +31,7 @@ There are five components to this tutorial:
 ---
 
 ## App Preview
-[Semantic Book Recommender](<"C:\Users\bhati\OneDrive\Pictures\Screenshots\Screenshot (81).png">)
+<img width="1920" height="891" alt="Semantic Book Recommender" src="https://github.com/user-attachments/assets/b81b31c2-ea5a-4890-a3a8-6397ffe17ec1"/>
 
 ---
 
