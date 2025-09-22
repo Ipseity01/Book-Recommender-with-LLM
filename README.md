@@ -35,10 +35,7 @@ There are five components to this tutorial:
 ## App Preview
 <img width="1920" height="891" alt="Semantic Book Recommender" src="https://github.com/user-attachments/assets/b81b31c2-ea5a-4890-a3a8-6397ffe17ec1"/>
 
----
 
-## Try It Online
-You can try the Semantic Book Recommender app here: [Open the App](https://10e837b1a8511adee1.gradio.live)
 
 
 
